@@ -24,7 +24,7 @@
 ![alt text](https://github.com/elangone/JobSheet1/blob/master/JobSheet1/Kondisi.JPG)
 
 * Konversi Nilai <br>
-![alt text](https://github.com/elangone/JobSheet1/blob/master/JobSheet1/Nilai.JPG)
+![alt text](https://github.com/elangone/JobSheet1/blob/master/JobSheet1/KonversiNilai.JPG)
 
 * Konversi Suhu <br>
 ![alt text](https://github.com/elangone/JobSheet1/blob/master/JobSheet1/KonversiSuhu.JPG)
